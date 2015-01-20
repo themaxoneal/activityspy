@@ -1,0 +1,57 @@
+01-20 11:59:53.252      705-705/edu.washington.maxoneal.activityspy D/dalvikvm? Not late-enabling CheckJNI (already on)
+01-20 11:59:56.222      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 11:59:56.383      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 11:59:56.922      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 11:59:57.722      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 11:59:57.973      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 11:59:58.583      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 11:59:59.082      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 11:59:59.352      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 11:59:59.722      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 11:59:59.912      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 12:00:00.232      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 12:00:00.303      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 12:00:00.852      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 12:00:00.996      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 12:00:01.312      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 12:00:01.472      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 12:00:01.962      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 12:00:02.063      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 12:00:02.252      705-705/edu.washington.maxoneal.activityspy I/dalvikvm? Could not find method android.view.ViewGroup.onNestedScrollAccepted, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onNestedScrollAccepted
+01-20 12:00:02.252      705-705/edu.washington.maxoneal.activityspy W/dalvikvm? VFY: unable to resolve virtual method 11349: Landroid/view/ViewGroup;.onNestedScrollAccepted (Landroid/view/View;Landroid/view/View;I)V
+01-20 12:00:02.262      705-705/edu.washington.maxoneal.activityspy D/dalvikvm? VFY: replacing opcode 0x6f at 0x0000
+01-20 12:00:02.272      705-705/edu.washington.maxoneal.activityspy I/dalvikvm? Could not find method android.view.ViewGroup.onStopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onStopNestedScroll
+01-20 12:00:02.292      705-705/edu.washington.maxoneal.activityspy W/dalvikvm? VFY: unable to resolve virtual method 11355: Landroid/view/ViewGroup;.onStopNestedScroll (Landroid/view/View;)V
+01-20 12:00:02.292      705-705/edu.washington.maxoneal.activityspy D/dalvikvm? VFY: replacing opcode 0x6f at 0x0000
+01-20 12:00:02.316      705-705/edu.washington.maxoneal.activityspy I/dalvikvm? Could not find method android.view.ViewGroup.onWindowSystemUiVisibilityChanged, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onWindowSystemUiVisibilityChanged
+01-20 12:00:02.323      705-705/edu.washington.maxoneal.activityspy W/dalvikvm? VFY: unable to resolve virtual method 11357: Landroid/view/ViewGroup;.onWindowSystemUiVisibilityChanged (I)V
+01-20 12:00:02.332      705-705/edu.washington.maxoneal.activityspy D/dalvikvm? VFY: replacing opcode 0x6f at 0x0008
+01-20 12:00:02.362      705-705/edu.washington.maxoneal.activityspy I/dalvikvm? Could not find method android.support.v7.internal.widget.ActionBarOverlayLayout.stopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.setHideOnContentScrollEnabled
+01-20 12:00:02.362      705-705/edu.washington.maxoneal.activityspy W/dalvikvm? VFY: unable to resolve virtual method 9043: Landroid/support/v7/internal/widget/ActionBarOverlayLayout;.stopNestedScroll ()V
+01-20 12:00:02.393      705-705/edu.washington.maxoneal.activityspy D/dalvikvm? VFY: replacing opcode 0x6e at 0x000e
+01-20 12:00:02.464      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 12:00:02.632      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 12:00:03.022      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 12:00:03.212      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 12:00:03.472      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 12:00:03.583      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 12:00:03.812      705-705/edu.washington.maxoneal.activityspy I/dalvikvm? Could not find method android.view.ViewGroup.onRtlPropertiesChanged, referenced from method android.support.v7.widget.Toolbar.onRtlPropertiesChanged
+01-20 12:00:03.822      705-705/edu.washington.maxoneal.activityspy W/dalvikvm? VFY: unable to resolve virtual method 11352: Landroid/view/ViewGroup;.onRtlPropertiesChanged (I)V
+01-20 12:00:03.832      705-705/edu.washington.maxoneal.activityspy D/dalvikvm? VFY: replacing opcode 0x6f at 0x0007
+01-20 12:00:04.022      705-705/edu.washington.maxoneal.activityspy I/dalvikvm? Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.internal.widget.TintTypedArray.getChangingConfigurations
+01-20 12:00:04.022      705-705/edu.washington.maxoneal.activityspy W/dalvikvm? VFY: unable to resolve virtual method 364: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
+01-20 12:00:04.075      705-705/edu.washington.maxoneal.activityspy D/dalvikvm? VFY: replacing opcode 0x6e at 0x0002
+01-20 12:00:04.102      705-705/edu.washington.maxoneal.activityspy I/dalvikvm? Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.internal.widget.TintTypedArray.getType
+01-20 12:00:04.102      705-705/edu.washington.maxoneal.activityspy W/dalvikvm? VFY: unable to resolve virtual method 386: Landroid/content/res/TypedArray;.getType (I)I
+01-20 12:00:04.102      705-705/edu.washington.maxoneal.activityspy D/dalvikvm? VFY: replacing opcode 0x6e at 0x0002
+01-20 12:00:04.123      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 12:00:04.232      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 12:00:04.604      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-20 12:00:04.722      705-710/edu.washington.maxoneal.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-20 12:00:05.212      705-705/edu.washington.maxoneal.activityspy I/MainActivity? onCreate() event fired
+01-20 12:00:05.242      705-705/edu.washington.maxoneal.activityspy I/MainActivity? onStart() event fired
+01-20 12:00:05.322      705-705/edu.washington.maxoneal.activityspy I/MainActivity? onResume() event fired
+01-20 12:00:06.113      705-705/edu.washington.maxoneal.activityspy D/gralloc_goldfish? Emulator without GPU emulation detected.
+01-20 12:06:17.113      705-705/edu.washington.maxoneal.activityspy I/MainActivity? onPause() event fired
+01-20 12:06:28.112      705-705/edu.washington.maxoneal.activityspy I/MainActivity? onStop() event fired
+01-20 12:06:29.522      705-705/edu.washington.maxoneal.activityspy D/MainActivity? We're going down, Captain!
